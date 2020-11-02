@@ -5,3 +5,4 @@
 
 ![cui-capture](https://user-images.githubusercontent.com/72304840/97849239-9bd79080-1d35-11eb-8888-f55e3d02cb29.png)
 
+exam-function.phpはexam.phpのwhile文の処理を関数化したもの。
